@@ -1,0 +1,13 @@
+1) Please discuss the problem of weight initialization in a neural network. How to tackle it. Discuss both intuition and maths from scratch.
+
+2) Please discuss the problem of vanishing & exploding gradient descent in a neural network. How to tackle it. Discuss both intuition and maths from scratch.
+
+3) How parallel computing works in mini-batch? Or does it work?
+
+4) What is the difference between multilabel classification and multiclassClassification? (Read the cost functions thoroughly)
+
+5) Understand the computation of gradients in backprop for logistic.
+
+6) What is a neural network? How to explain it to a professional + How to explain it to a layman?
+
+7) Next need to study on Adam.. How is it coming....
